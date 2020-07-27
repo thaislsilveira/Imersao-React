@@ -1,7 +1,8 @@
 import React from 'react';
-import "./Menu.css";
 import Logo from '../../assets/img/Logo-b.png';
-import ButtonLink from './components/ButtonLink';
+// import ButtonLink from './components/ButtonLink';
+import Button from '../Button'
+import "./Menu.css";
 
 function Menu() {
     return (
@@ -9,9 +10,9 @@ function Menu() {
             <a href="/">
                 <img className="Logo" src={Logo} alt="PLFLIX Logo" />
             </a>
-            <ButtonLink className="ButtonLink" href="/" alt = "Botão">
+            <Button as = "a" className="ButtonLink" href="/" alt = "Botão">
                 Novo Vídeo
-            </ButtonLink>
+            </Button>
         </nav>
     );
 }
