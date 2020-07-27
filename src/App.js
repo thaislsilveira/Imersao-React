@@ -17,15 +17,15 @@ function App() {
         videoDescription = {'O q  ue é o Front-End? Trabalhando na área'}
       />
       <Carousel
-        // ignoreFirstVideo
         category = {DadosIniciais.categorias[6]}
+        ignoreFirstVideo
       />
       <Carousel
-        // ignoreFirstVideo
+        ignoreFirstVideo
         category = {DadosIniciais.categorias[7]}
       />
       <Carousel
-        // ignoreFirstVideo
+        ignoreFirstVideo
         category = {DadosIniciais.categorias[8]}
       />
     
