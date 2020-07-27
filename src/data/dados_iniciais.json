@@ -155,7 +155,7 @@
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Vídeos do canal Coisa e Nerd",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
@@ -179,6 +179,96 @@
           "titulo": "Como aprender a programar?",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
+      ]
+    },
+    {
+      "titulo": "Coisa de Nerd",
+      "cor": "#342a5e",
+      "link_extra": {
+        "text": "Vídeos do Coisa de Nerd",
+        "url": "https://www.youtube.com/coisadenerd"
+      },
+      "videos": [
+        {
+          "titulo": "OLHA ESSA BATERIA! - Galaxy M31",
+          "url": "https://www.youtube.com/watch?v=B5wuXnBcPro&feature=youtu.be"
+        },
+        {
+          "titulo": "MEU SETUP NOVO É UM SUCESSO!",
+          "url": "https://www.youtube.com/watch?v=oldTlO58iog&feature=youtu.be"
+        },
+        {
+          "titulo": "COLOQUEI LED EM CASA! - Smart Home 05",
+          "url": "https://www.youtube.com/watch?v=zu2Ws0EpQ2E&feature=youtu.be"
+        },
+        {
+          "titulo": "POR QUE O PLAYSTATION 5 É ASSIM?",
+          "url": "https://www.youtube.com/watch?v=DDqRgIfHJeo&feature=youtu.be"
+        },
+        {
+          "titulo": "O NOVO CELULAR QUE DOBRA! - Galaxy Z Flip.",
+          "url": "https://www.youtube.com/watch?v=yG4d8M1SUsA&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "Combo Infinito",
+      "cor": "#47caa8",
+      "link_extra": {
+        "text": "Novidades sobre o Mundo dos Jogos",
+        "url": "https://www.youtube.com/ComboinfinitoBr"
+      },
+      "videos": [
+        {
+          "titulo": "ESTES SÃO OS GAMES DA PLAYSTATION PLUS DE AGOSTO! VALEM A PENA?",
+          "url": "https://www.youtube.com/watch?v=GCuo8FcCGPM&feature=youtu.be"
+        },
+        {
+          "titulo": "OLHA SÓ O QUE A SQUARE ENIX FALOU SOBRE O FUTURO DE FINAL FANTASY VII REMAKE!",
+          "url": "https://www.youtube.com/watch?v=YpAzr706v5E&feature=youtu.be"
+        },
+        {
+          "titulo": "ESTE É O DUBLADOR BRASILEIRO DE GHOST OF TSUSHIMA! DETALHES E CURIOSIDADES!",
+          "url": "https://www.youtube.com/watch?v=CTVfckkG6-8&feature=youtu.be"
+        },
+        {
+          "titulo": "OLHA SÓ A RESPOSTA DA MICROSOFT ÀS CRÍTICAS PARA HALO INFINITE!",
+          "url": "https://www.youtube.com/watch?v=GylFKlL84fo&feature=youtu.be"
+        },
+        {
+          "titulo": "GOD OF WAR DO PS5 PODE CHEGAR MAIS CEDO DO QUE IMAGINAMOS",
+          "url": "https://www.youtube.com/watch?v=Fx0NznTxxuY&feature=youtu.be"
+        }       
+      ]
+    },
+    {
+      "titulo": "Jovem Nerd",
+      "cor": "#004c54",
+      "link_extra": {
+        "text": "Cinema, Quadrinhos, Séries, Games, Internet e Tecnologia são muito mais divertidos no Jovem Nerd!",
+        "url": "https://www.youtube.com/user/JovemNerd"
+      },
+      "videos": [
+        {
+          "titulo": "Watch Dogs: Legion - Time Melhor Idade",
+          "url": "https://www.youtube.com/watch?v=bB3akZJtUbA&t=106s&feature=youtu.be"
+        },
+        {
+          "titulo": "Leitura de emails LIVE | Nerdcast 734 - QUEEN!",
+          "url": "https://www.youtube.com/watch?v=6cOU8enSbSA&feature=youtu.be"
+        },
+        {
+          "titulo": "Só 5 minutinhos de POWER",
+          "url": "https://www.youtube.com/watch?v=_uCTkGXnm3g&feature=youtu.be"
+        },
+        {
+          "titulo": "Controle os seus filhos | Sr. K Responde",
+          "url": "https://www.youtube.com/watch?v=Fvfiwf9dB_E&feature=youtu.be"
+        },
+        {
+          "titulo": "Assassin's Creed Valhalla - Fúria Viking",
+          "url": "https://www.youtube.com/watch?v=vkUUivAXmXo&feature=youtu.be"
+        }       
       ]
     }
   ]

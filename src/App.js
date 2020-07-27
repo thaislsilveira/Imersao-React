@@ -12,18 +12,23 @@ function App() {
     <div style={{ background: "#414141" }}>
       <Menu />
       <BannerMain
-        videoTitle={DadosIniciais.categorias[0].videos[0].titulo}
-        url = {DadosIniciais.categorias[0].videos[0].url}
+        videoTitle={DadosIniciais.categorias[6].videos[0].titulo}
+        url = {DadosIniciais.categorias[6].videos[0].url}
         videoDescription = {'O q  ue é o Front-End? Trabalhando na área'}
       />
       <Carousel
-        ignoreFirstVideo
-        category={DadosIniciais.categorias[0]}
+        // ignoreFirstVideo
+        category = {DadosIniciais.categorias[6]}
       />
       <Carousel
-        ignoreFirstVideo
-        category={DadosIniciais.categorias[1]}
+        // ignoreFirstVideo
+        category = {DadosIniciais.categorias[7]}
       />
+      <Carousel
+        // ignoreFirstVideo
+        category = {DadosIniciais.categorias[8]}
+      />
+    
       <Footer/>
     </div>
   );
