@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 
 function CadastroCategorias(){
     return(
-        <div>
+        <>
             <PageDefault>
                 <h1>Cadastro de Categorias</h1>
                 <Link to = '/'>
@@ -13,7 +13,7 @@ function CadastroCategorias(){
                 </Link>
 
             </PageDefault>
-        </div>
+        </>
     )
 }
 
