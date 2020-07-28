@@ -10,7 +10,7 @@ function Menu() {
             <Link to="/">
                 <img className="Logo" src={Logo} alt="PLFLIX Logo" />
             </Link>
-            <Button as = {Link} className="ButtonLink" to="/cadastros/video" alt = "Botão">
+            <Button as = {Link} className="ButtonLink" to="/cadastro/video" alt = "Novo Vídeo">
                 Novo Vídeo
             </Button>
         </nav>
