@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div style={{ background: "#414141" }}>
+    <div style={{ background: "#141414" }}>
       <Menu />
       <BannerMain
         videoTitle={DadosIniciais.categorias[6].videos[0].titulo}
@@ -17,8 +17,8 @@ function App() {
         videoDescription = {'O q  ue é o Front-End? Trabalhando na área'}
       />
       <Carousel
-        category = {DadosIniciais.categorias[6]}
         ignoreFirstVideo
+        category = {DadosIniciais.categorias[6]}
       />
       <Carousel
         ignoreFirstVideo

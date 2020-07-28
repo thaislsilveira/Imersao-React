@@ -1,5 +1,5 @@
 .Logo {
-    height: 60px;
+    height: 40px;
     max-width: 168px;
 }
 
@@ -42,9 +42,9 @@ body {
     }
 }
 
-/* .ButtonLink {
-    color: var(--yellow);
-    border: 1px solid var(--yellow);
+.ButtonLink {
+    color: var(--white);
+    border: 1px solid var(--white);
     box-sizing: border-box;
     cursor: pointer;
     padding: 16px 24px;
@@ -56,12 +56,12 @@ body {
     text-decoration: none;
     display: inline-block;
     transition: opacity .3s;
-} */
+}
 
-/* .ButtonLink:hover,
+.ButtonLink:hover,
 .ButtonLink:focus {
     opacity: .5;
-} */
+}
 
 @media (max-width: 800px) {
     a.ButtonLink {
